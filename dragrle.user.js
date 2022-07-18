@@ -4,12 +4,12 @@
 // @description Drag .rle file into the expressions bar to import
 // @grant       none
 // @version     1.0
-// @match       https://www.desmos.com/calculator/oiangej86h
+// @match       https://www.desmos.com/calculator/johnconway
 // @downloadURL https://github.com/MathEnthusiast314/DragToImport/blob/main/dragrle.user.js
 // @updateURL https://github.com/MathEnthusiast314/DragToImport/blob/main/dragrle.user.js
 // ==/UserScript==
 
-//GRAPH: Works on https://www.desmos.com/calculator/oiangej86h
+//GRAPH: Works on https://www.desmos.com/calculator/johnconway
 (function() {
     'use strict';
 
