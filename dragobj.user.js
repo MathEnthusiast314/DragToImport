@@ -50,7 +50,7 @@ function start(){
                     };
                 }
             });
-            console.log("DragToImport Loaded ✔️")
+            console.log("DragToImportObj Loaded ✔️")
 		} else {
 			window.alert("uh oh, something went wrong")
 			}
