@@ -1,3 +1,12 @@
+# Drag to Import Graph .json
+
+After exporting your graph's .json file using https://gist.github.com/MathEnthusiast314/60a4863a85a7b652fb8b96e502cbd131, you can import it back directly by dragging the file to the expression bar
+
+
+https://github.com/user-attachments/assets/70bb4fb4-9628-4ace-98d7-7f61324edbc3
+
+
+
 # Drag to Import .OBJ
 
 Graph: https://www.desmos.com/calculator/zuisytxfgo
